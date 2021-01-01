@@ -1,12 +1,12 @@
 # Pokemon Exploration
 
 ## Description
-* The project is the **Exploratory Data Analysis** (EDA) of all **Pokemons** from **Generation 1** to **Generation 8**.<br>
+* The project is the **Data Analysis** of all **Pokemons** from **Generation 1** to **Generation 8**.<br>
 * The **insights** of the **Pokemons** have been visually expressed through **interactive graphs/charts**.
 <hr>
 
 ## Additional details
-* There is one jupyter notebook in the project [pokemon-stats.ipynb](https://github.com/sagar-0817/pokemon-stats/blob/master/pokemon-stats.ipynb) in which the EDA has been done.<br>
+* There is one jupyter notebook in the project [pokemon-stats.ipynb](https://github.com/sagar-0817/pokemon-stats/blob/master/pokemon-stats.ipynb) in which the Data Analysis has been done.<br>
 * The notebook uses a dataset called [pokemon-data.csv](https://github.com/sagar-0817/pokemon-stats/blob/master/pokemon-data.csv).<br>
 * To understand how to interact with the different plotly graphs, you can view [this](https://github.com/sagar-0817/plotly-graph-instructions/blob/master/plotly-graph-instructions.ipynb) notebook.
 <hr>
